@@ -19,6 +19,7 @@ The Nova Nexus team developed an e-commerce website using Shopify Partner. This 
 3. **Cart & Checkout**: Allows users to add items to the cart and proceed to a secure checkout process.
 4. **User Authentication**: User login and registration are supported.
 5. **Payment Integration**: Secure payment methods integrated with Shopify’s payment gateway.
+6. **ChatBOT** : Ai chatbot that will help customer, for FAQs, all quieries.
 
 ## Development Process
 - **Phase 1**: Setup of Shopify Partner store and basic site design.
