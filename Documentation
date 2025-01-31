@@ -1,0 +1,40 @@
+
+### Documentation File Format:
+```markdown
+# Project Documentation - Nova Nexus Adaa jaipur
+
+## Introduction
+The Nova Nexus team developed an e-commerce website using Shopify Partner. This platform aims to provide a seamless shopping experience for users.
+
+## Project Details
+- **Project Name**: Nova Nexus E-commerce Website
+- **Team Name**: Nova Nexus
+- **Platform Used**: Shopify Partner
+- **Website Link**: [https://adaajaipur0.myshopify.com/](https://adaajaipur0.myshopify.com/)
+- **Password**: 123456
+
+## Features and Functionalities
+1. **Homepage**: Displays featured products, offers, and a smooth user interface.
+2. **Product Pages**: Detailed product description, images, and pricing information.
+3. **Cart & Checkout**: Allows users to add items to the cart and proceed to a secure checkout process.
+4. **User Authentication**: User login and registration are supported.
+5. **Payment Integration**: Secure payment methods integrated with Shopify’s payment gateway.
+
+## Development Process
+- **Phase 1**: Setup of Shopify Partner store and basic site design.
+- **Phase 2**: Adding products, collections, and setting up a secure checkout process.
+- **Phase 3**: Optimization for mobile responsiveness and testing.
+- **Phase 4**: Deployment and final review.
+
+## Technologies Used
+- **Shopify Partner**: Used for creating the online store and handling e-commerce functionalities.
+- **HTML/CSS/JavaScript**: Used for customizing the front-end design.
+- **Payment Gateways**: Shopify’s integrated payment processing system.
+
+## Conclusion
+The Nova Nexus team successfully developed and deployed the e-commerce website, meeting the needs of modern consumers with a user-friendly interface and secure shopping options.
+
+## Contact Information
+- **Shubham Chaubey** (Team Leader): shubham.chaubey124985@marwadiuniversity.ac.in
+- **Sumant Kumar**: sumant.kumar127389@marwadiuniversity.ac.in
+- **Abhishek Kumar**: abhishek.kumar127399@marwadiuniversity.ac.in
