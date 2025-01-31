@@ -26,4 +26,4 @@ You can access the live website here: [Shopify Store](https://adaajaipur0.myshop
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/Shubham713-lab/Adaa-Jaipur/settings)
+   git clone (https://github.com/Shubham713-lab/Adaa-Jaipur/)
